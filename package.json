@@ -19,8 +19,8 @@
     "dotenv": "~1.2",
     "restler": "~3.4",
     "uuid": "~2.0",
-    "winston": "~2.1",
-    "ws": "~1.0"
+    "uws": "^0.7.9",
+    "winston": "~2.1"
   },
   "devDependencies": {
     "chai": "~3.0",

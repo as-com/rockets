@@ -2,7 +2,7 @@ require('dotenv').load();
 
 cluster = require('cluster');
 os      = require('os');
-ws      = require('ws');
+ws      = require('uws');
 async   = require('async');
 uuid    = require('uuid');
 winston = require('winston');
